@@ -71,7 +71,6 @@ form input::placeholder {
     font-size: 1vw;
     color: #3687cd;
 }
-
 form input:focus {
     border:none;
 }
@@ -80,7 +79,6 @@ form button {
     background: none;
     border:none;    
 }
-
 form button i {
     color: #000;
     font-size: 1.5vw;
