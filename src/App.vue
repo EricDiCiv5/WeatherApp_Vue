@@ -1,14 +1,17 @@
 <template>
   <HeaderOne title="Weather App"/>
+  <FooterOne author="Eric Díaz"/>
 </template>
 
 <script>
 import HeaderOne from './components/HeaderOne.vue'
+import FooterOne from './components/FooterOne.vue'
 
 export default {
   name: 'App',
   components: {
-    HeaderOne
+    HeaderOne,
+    FooterOne,
   }
 }
 </script>
